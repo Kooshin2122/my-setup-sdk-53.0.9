@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Test10",
-    "slug": "Test10",
+    "name": "my-template",
+    "slug": "my-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
