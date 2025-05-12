@@ -1,6 +1,6 @@
 //
 import { Stack } from "expo-router";
-import { View } from "react-native";
+import { Text, View } from "react-native";
 import ThemeToggle from "./ThemeToggle";
 
 export default function Index() {
@@ -26,7 +26,7 @@ export default function Index() {
           headerShadowVisible: false,
         }}
       />
-
+      <Text>Hello</Text>
       <ThemeToggle />
     </View>
   );
